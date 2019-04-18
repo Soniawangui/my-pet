@@ -11,7 +11,7 @@ My pet blog contains day to day detail of Rocky. It also contains what he likes 
 ## Technologies Used
 {I used html to design my page}
 ## Support and contact details
-{Incase you encounter any trouble viewing the project}
+{koisonia99@gmail.com, arnoldcliff98@gmail.com}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {2019} **{TechspaceKe}**
